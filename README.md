@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Hawi-net/Leet-Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
 ## Dynamic Programming
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
