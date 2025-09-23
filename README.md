@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Hawi-net/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -80,8 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
