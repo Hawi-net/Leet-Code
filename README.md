@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Hawi-net/Leet-Code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Hawi-net/Leet-Code/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Hawi-net/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 ## Math
 |  |
