@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
+| [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hawi-net/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
