@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hawi-net/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hawi-net/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Hawi-net/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hawi-net/Leet-Code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
