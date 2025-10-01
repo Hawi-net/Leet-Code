@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Hawi-net/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hawi-net/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
 ## Design
 |  |
 | ------- |
