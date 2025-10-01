@@ -110,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
+| [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
 ## Linked List
 |  |
 | ------- |
