@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Hawi-net/Leet-Code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Hawi-net/Leet-Code/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hawi-net/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hawi-net/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Hawi-net/Leet-Code/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Hawi-net/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Hawi-net/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
