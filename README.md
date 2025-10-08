@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Hawi-net/Leet-Code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Hawi-net/Leet-Code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hawi-net/Leet-Code/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
 |  |
