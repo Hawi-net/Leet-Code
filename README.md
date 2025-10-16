@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hawi-net/Leet-Code/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Queue
 |  |
 | ------- |
