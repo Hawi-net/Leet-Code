@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Hawi-net/Leet-Code/tree/master/0481-magical-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Hawi-net/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Hawi-net/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Tree
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -294,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 <!---LeetCode Topics End-->
