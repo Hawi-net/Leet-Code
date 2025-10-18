@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Hawi-net/Leet-Code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [3447-clear-digits](https://github.com/Hawi-net/Leet-Code/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [3447-clear-digits](https://github.com/Hawi-net/Leet-Code/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
+| [3447-clear-digits](https://github.com/Hawi-net/Leet-Code/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
