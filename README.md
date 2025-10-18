@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Hawi-net/Leet-Code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Hawi-net/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Hawi-net/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Tree
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
