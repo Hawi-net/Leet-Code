@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hawi-net/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Hawi-net/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Hawi-net/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Hawi-net/Leet-Code/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Hawi-net/Leet-Code/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
