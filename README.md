@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,4 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Union Find
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Graph
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
