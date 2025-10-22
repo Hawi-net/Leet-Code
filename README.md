@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Hawi-net/Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/Hawi-net/Leet-Code/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hawi-net/Leet-Code/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Hawi-net/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0401-binary-watch](https://github.com/Hawi-net/Leet-Code/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hawi-net/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
