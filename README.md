@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Hawi-net/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Hawi-net/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Hawi-net/Leet-Code/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Hawi-net/Leet-Code/tree/master/3973-flip-square-submatrix-vertically) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -329,10 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
