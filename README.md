@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Hawi-net/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
+| [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
+| [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Hawi-net/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
+| [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
