@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Hawi-net/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0284-peeking-iterator](https://github.com/Hawi-net/Leet-Code/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Hawi-net/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/Hawi-net/Leet-Code/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 ## Bucket Sort
 |  |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Hawi-net/Leet-Code/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
