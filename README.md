@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
+| [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hawi-net/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hawi-net/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0481-magical-string](https://github.com/Hawi-net/Leet-Code/tree/master/0481-magical-string) |
+| [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Hawi-net/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hawi-net/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
