@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
+| [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 ## Hash Table
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
+| [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hawi-net/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Recursion
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/Hawi-net/Leet-Code/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/Hawi-net/Leet-Code/tree/master/0729-my-calendar-i) |
+| [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -413,4 +416,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Hawi-net/Leet-Code/tree/master/0729-my-calendar-i) |
+| [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
