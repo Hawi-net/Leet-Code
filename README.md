@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Hawi-net/Leet-Code/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Array
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Hawi-net/Leet-Code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Union Find
 |  |
 | ------- |
