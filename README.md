@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/Hawi-net/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Hawi-net/Leet-Code/tree/master/2294-minimum-time-to-complete-trips) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hawi-net/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
