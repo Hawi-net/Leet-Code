@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Hawi-net/Leet-Code/tree/master/0729-my-calendar-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Hawi-net/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
+| [0901-advantage-shuffle](https://github.com/Hawi-net/Leet-Code/tree/master/0901-advantage-shuffle) |
 | [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Hawi-net/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Hawi-net/Leet-Code/tree/master/0768-partition-labels) |
+| [0901-advantage-shuffle](https://github.com/Hawi-net/Leet-Code/tree/master/0901-advantage-shuffle) |
 | [0941-sort-array-by-parity](https://github.com/Hawi-net/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Hawi-net/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0901-advantage-shuffle](https://github.com/Hawi-net/Leet-Code/tree/master/0901-advantage-shuffle) |
 | [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Hawi-net/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Hawi-net/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Hawi-net/Leet-Code/tree/master/0768-partition-labels) |
+| [0901-advantage-shuffle](https://github.com/Hawi-net/Leet-Code/tree/master/0901-advantage-shuffle) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
