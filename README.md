@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Hawi-net/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Hawi-net/Leet-Code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Hawi-net/Leet-Code/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Hawi-net/Leet-Code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hawi-net/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Hawi-net/Leet-Code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Hawi-net/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0481-magical-string](https://github.com/Hawi-net/Leet-Code/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Hawi-net/Leet-Code/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hawi-net/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
