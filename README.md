@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Hawi-net/Leet-Code/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/Hawi-net/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/Hawi-net/Leet-Code/tree/master/0664-strange-printer) |
 | [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/Hawi-net/Leet-Code/tree/master/0768-partition-labels) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Hawi-net/Leet-Code/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Hawi-net/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+| [0664-strange-printer](https://github.com/Hawi-net/Leet-Code/tree/master/0664-strange-printer) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Array
 |  |
