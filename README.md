@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Hawi-net/Leet-Code/tree/master/0481-magical-string) |
 | [0657-robot-return-to-origin](https://github.com/Hawi-net/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/Hawi-net/Leet-Code/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
+| [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Hawi-net/Leet-Code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Hawi-net/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/Hawi-net/Leet-Code/tree/master/0768-partition-labels) |
 | [0924-fair-candy-swap](https://github.com/Hawi-net/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Hawi-net/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/Hawi-net/Leet-Code/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0729-my-calendar-i](https://github.com/Hawi-net/Leet-Code/tree/master/0729-my-calendar-i) |
 | [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 ## Bucket Sort
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
+| [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 ## Memoization
