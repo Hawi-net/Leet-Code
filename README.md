@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Hawi-net/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Hawi-net/Leet-Code/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Hawi-net/Leet-Code/tree/master/0087-scramble-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Hawi-net/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Hawi-net/Leet-Code/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Hawi-net/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Hawi-net/Leet-Code/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Hawi-net/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Hawi-net/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Hawi-net/Leet-Code/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
