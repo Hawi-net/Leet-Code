@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Hawi-net/Leet-Code/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Hawi-net/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Hawi-net/Leet-Code/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Hawi-net/Leet-Code/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hawi-net/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Hawi-net/Leet-Code/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/Hawi-net/Leet-Code/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 ## Divide and Conquer
