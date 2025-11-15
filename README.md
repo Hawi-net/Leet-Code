@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Hawi-net/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0401-binary-watch](https://github.com/Hawi-net/Leet-Code/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Hawi-net/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 | [2240-intervals-between-identical-elements](https://github.com/Hawi-net/Leet-Code/tree/master/2240-intervals-between-identical-elements) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2240-intervals-between-identical-elements](https://github.com/Hawi-net/Leet-Code/tree/master/2240-intervals-between-identical-elements) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hawi-net/Leet-Code/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Design
