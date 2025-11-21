@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Hawi-net/Leet-Code/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Hawi-net/Leet-Code/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hawi-net/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Hawi-net/Leet-Code/tree/master/0768-partition-labels) |
 | [0901-advantage-shuffle](https://github.com/Hawi-net/Leet-Code/tree/master/0901-advantage-shuffle) |
 | [0946-smallest-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0946-smallest-range-ii) |
+| [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
+| [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 ## Hash Table
 |  |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Hawi-net/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
+| [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Queue
 |  |
