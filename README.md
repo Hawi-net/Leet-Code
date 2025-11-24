@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hawi-net/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Hawi-net/Leet-Code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Hawi-net/Leet-Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Hawi-net/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Hawi-net/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Hawi-net/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Hawi-net/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0959-3sum-with-multiplicity](https://github.com/Hawi-net/Leet-Code/tree/master/0959-3sum-with-multiplicity) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hawi-net/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Hawi-net/Leet-Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
 ## Merge Sort
