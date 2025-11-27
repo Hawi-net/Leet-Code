@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/Hawi-net/Leet-Code/tree/master/2294-minimum-time-to-complete-trips) |
 | [2388-replace-elements-in-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/2388-replace-elements-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hawi-net/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2895-minimum-processing-time](https://github.com/Hawi-net/Leet-Code/tree/master/2895-minimum-processing-time) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Hawi-net/Leet-Code/tree/master/3973-flip-square-submatrix-vertically) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hawi-net/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2895-minimum-processing-time](https://github.com/Hawi-net/Leet-Code/tree/master/2895-minimum-processing-time) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2895-minimum-processing-time](https://github.com/Hawi-net/Leet-Code/tree/master/2895-minimum-processing-time) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Hawi-net/Leet-Code/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
