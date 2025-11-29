@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Hawi-net/Leet-Code/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Hawi-net/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0664-strange-printer](https://github.com/Hawi-net/Leet-Code/tree/master/0664-strange-printer) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hawi-net/Leet-Code/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Array
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hawi-net/Leet-Code/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0733-flood-fill](https://github.com/Hawi-net/Leet-Code/tree/master/0733-flood-fill) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hawi-net/Leet-Code/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Hawi-net/Leet-Code/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Hawi-net/Leet-Code/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hawi-net/Leet-Code/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hawi-net/Leet-Code/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
