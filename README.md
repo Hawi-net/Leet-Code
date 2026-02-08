@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
+| [1929-concatenation-of-array](https://github.com/Hawi-net/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2240-intervals-between-identical-elements](https://github.com/Hawi-net/Leet-Code/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Hawi-net/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Hawi-net/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2388-replace-elements-in-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/2388-replace-elements-in-an-array) |
 | [3447-clear-digits](https://github.com/Hawi-net/Leet-Code/tree/master/3447-clear-digits) |
 ## Linked List
