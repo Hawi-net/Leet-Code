@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Hawi-net/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Hawi-net/Leet-Code/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Hawi-net/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Hawi-net/Leet-Code/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Hawi-net/Leet-Code/tree/master/0053-maximum-subarray) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Hawi-net/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Hawi-net/Leet-Code/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hawi-net/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Hawi-net/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Hawi-net/Leet-Code/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0125-valid-palindrome) |
