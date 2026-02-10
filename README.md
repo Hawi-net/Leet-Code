@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hawi-net/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hawi-net/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Hawi-net/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hawi-net/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Hawi-net/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Hawi-net/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Hawi-net/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Hawi-net/Leet-Code/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Hawi-net/Leet-Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Hawi-net/Leet-Code/tree/master/0031-next-permutation) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hawi-net/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0720-longest-word-in-dictionary) |
