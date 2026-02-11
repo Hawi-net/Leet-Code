@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hawi-net/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hawi-net/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Hawi-net/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Hawi-net/Leet-Code/tree/master/0096-unique-binary-search-trees) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Hawi-net/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Hawi-net/Leet-Code/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Hawi-net/Leet-Code/tree/master/0136-single-number) |
