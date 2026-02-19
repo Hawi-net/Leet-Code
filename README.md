@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/Hawi-net/Leet-Code/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/Hawi-net/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Hawi-net/Leet-Code/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Hawi-net/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Hawi-net/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Hawi-net/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Hawi-net/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Hawi-net/Leet-Code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Hawi-net/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Hawi-net/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0481-magical-string](https://github.com/Hawi-net/Leet-Code/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Hawi-net/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Hawi-net/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/Hawi-net/Leet-Code/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Hawi-net/Leet-Code/tree/master/0506-relative-ranks) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hawi-net/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Hawi-net/Leet-Code/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/Hawi-net/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Hawi-net/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0676-implement-magic-dictionary](https://github.com/Hawi-net/Leet-Code/tree/master/0676-implement-magic-dictionary) |
