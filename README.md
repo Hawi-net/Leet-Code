@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Hawi-net/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Hawi-net/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hawi-net/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Hawi-net/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Hawi-net/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Hawi-net/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Hawi-net/Leet-Code/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Hawi-net/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Hawi-net/Leet-Code/tree/master/0530-minimum-absolute-difference-in-bst) |
