@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Hawi-net/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0664-strange-printer](https://github.com/Hawi-net/Leet-Code/tree/master/0664-strange-printer) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hawi-net/Leet-Code/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Array
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hawi-net/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hawi-net/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Hawi-net/Leet-Code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hawi-net/Leet-Code/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
 | [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
+| [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 | [2161-stock-price-fluctuation](https://github.com/Hawi-net/Leet-Code/tree/master/2161-stock-price-fluctuation) |
 ## Hash Table
 |  |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Hawi-net/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Hawi-net/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -593,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Hawi-net/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 ## Topological Sort
 |  |
 | ------- |
