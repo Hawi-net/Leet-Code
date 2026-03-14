@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1080-camelcase-matching](https://github.com/Hawi-net/Leet-Code/tree/master/1080-camelcase-matching) |
 | [1115-valid-boomerang](https://github.com/Hawi-net/Leet-Code/tree/master/1115-valid-boomerang) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hawi-net/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Hawi-net/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Hawi-net/Leet-Code/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hawi-net/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Hawi-net/Leet-Code/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Hawi-net/Leet-Code/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Hawi-net/Leet-Code/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Hawi-net/Leet-Code/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Hawi-net/Leet-Code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hawi-net/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2240-intervals-between-identical-elements](https://github.com/Hawi-net/Leet-Code/tree/master/2240-intervals-between-identical-elements) |
