@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hawi-net/Leet-Code/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hawi-net/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/Hawi-net/Leet-Code/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hawi-net/Leet-Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Hawi-net/Leet-Code/tree/master/0198-house-robber) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Hawi-net/Leet-Code/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Hawi-net/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Hawi-net/Leet-Code/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Hawi-net/Leet-Code/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Hawi-net/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Hawi-net/Leet-Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hawi-net/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Hawi-net/Leet-Code/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Hawi-net/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
 ## Counting
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Hawi-net/Leet-Code/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Hawi-net/Leet-Code/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
