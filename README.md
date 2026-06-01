@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Hawi-net/Leet-Code/tree/master/1813-maximum-erasure-value) |
 | [1929-concatenation-of-array](https://github.com/Hawi-net/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hawi-net/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2240-intervals-between-identical-elements](https://github.com/Hawi-net/Leet-Code/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Hawi-net/Leet-Code/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Hawi-net/Leet-Code/tree/master/2294-minimum-time-to-complete-trips) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Hawi-net/Leet-Code/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Hawi-net/Leet-Code/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hawi-net/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hawi-net/Leet-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Hawi-net/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2895-minimum-processing-time](https://github.com/Hawi-net/Leet-Code/tree/master/2895-minimum-processing-time) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Hawi-net/Leet-Code/tree/master/1054-distant-barcodes) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hawi-net/Leet-Code/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Hawi-net/Leet-Code/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hawi-net/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Hawi-net/Leet-Code/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2895-minimum-processing-time](https://github.com/Hawi-net/Leet-Code/tree/master/2895-minimum-processing-time) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Hawi-net/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
