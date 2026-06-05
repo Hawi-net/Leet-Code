@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/Hawi-net/Leet-Code/tree/master/1425-constrained-subsequence-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Hawi-net/Leet-Code/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Hawi-net/Leet-Code/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Hawi-net/Leet-Code/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Hawi-net/Leet-Code/tree/master/1642-water-bottles) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Hawi-net/Leet-Code/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Hawi-net/Leet-Code/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Simulation
 |  |
 | ------- |
